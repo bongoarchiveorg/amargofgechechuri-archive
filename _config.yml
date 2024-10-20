@@ -1,0 +1,20 @@
+baseurl: ''
+description: |
+  অভিশাপ idk
+  If this page ever gets zucced follow the voices in our head @pubaliiie @hoevigyan
+footer_website: bongoarchive.org
+header_img: media/amargofgechechuri.jpg
+ig_category: null
+ig_userid: '58000937045'
+ig_username: amargofgechechuri
+ig_website: null
+include:
+- media
+name: "নামহীন"
+plugins:
+- jekyll-remote-theme
+remote_theme: diptanilsaha/jekyll-theme-instagram
+theme_config:
+  archive: true
+title: amargofgechechuri
+url: 'https://amargofgechechuri.bongoarchive.org/'
